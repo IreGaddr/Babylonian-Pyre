@@ -149,3 +149,5 @@ This work builds upon millennia of mathematical progress, from ancient Babylonia
 ---
 
 "Bridging ancient wisdom with modern precision."
+Author's Note:
+I thank my family's haunting words, "Capta Majora". Yes, I have sought greater things. Ancestors, your wisdom has wrought my pursuit of precision. Together we touch the fabric of reality and dare to tread the distant stars in a now not so distant future.
