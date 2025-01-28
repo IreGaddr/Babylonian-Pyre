@@ -127,7 +127,7 @@ If you use this method in your research, please cite:
 ```bibtex
 @article{base360pi2025,
   title={A Novel Method for High-Precision Pi Approximation Using Base-360 Iteration},
-  repository={Babylonian-Pyre}
+  repository={Babylonian-Pyre},
   year={2025},
   journal={GitHub}
 }
