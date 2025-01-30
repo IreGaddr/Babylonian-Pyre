@@ -58,4 +58,4 @@ This work builds upon millennia of mathematical progress, from ancient Babylonia
 
 ---
 
-"Capta Majora"-seek greater things. Yes ancestors, I have headed your words. 
+"Capta Majora"-seek greater things. Yes ancestors, I have followed your words. 
