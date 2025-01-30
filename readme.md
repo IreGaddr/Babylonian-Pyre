@@ -40,7 +40,7 @@ If you use this method in your research, please cite:
 
 ```bibtex
 @misc{githubBase360Pi,
-  author = {[Author]},
+  author = {[Ire Gaddr]},
   title = {Base-360 Pi Approximation},
   year = {2025},
   publisher = {GitHub},
@@ -58,4 +58,4 @@ This work builds upon millennia of mathematical progress, from ancient Babylonia
 
 ---
 
-"Bridging ancient wisdom with modern precision."
+"Capta Majora"-seek greater things. Yes ancestors, I have headed your words. 
